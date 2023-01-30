@@ -1,0 +1,24 @@
+{
+  "name": "sunarishelper",
+  "version": "1.0.0",
+  "description": "Pour Sunaris",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js &"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RegisCoaxans/SunarisHelper.git"
+  },
+  "author": "RegisCoaxans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RegisCoaxans/SunarisHelper/issues"
+  },
+  "homepage": "https://github.com/RegisCoaxans/SunarisHelper#readme",
+  "dependencies": {
+    "eris": "^0.17.1",
+    "util": "^0.12.5"
+  }
+}
